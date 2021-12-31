@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "22133074890",
+    "firebase_url": "https://liciajosh-8b3ce-default-rtdb.firebaseio.com",
+    "project_id": "liciajosh-8b3ce",
+    "storage_bucket": "liciajosh-8b3ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22133074890:android:37fef28d37137d4f5dfd33",
+        "android_client_info": {
+          "package_name": "com.ayomi.liciajosh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22133074890-b61lnqfmuvqt2kh19hk17b14rhk4q1h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAumgRtB7Y7oVkYyNPe3oPx9UgpC6zmEMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22133074890-b61lnqfmuvqt2kh19hk17b14rhk4q1h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22133074890:android:fd63385341923eff5dfd33",
+        "android_client_info": {
+          "package_name": "com.licia_josh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22133074890-b61lnqfmuvqt2kh19hk17b14rhk4q1h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAumgRtB7Y7oVkYyNPe3oPx9UgpC6zmEMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22133074890-b61lnqfmuvqt2kh19hk17b14rhk4q1h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
